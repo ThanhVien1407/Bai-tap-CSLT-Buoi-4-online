@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Bài tập về nhà - Buổi 4 (học bù)": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
