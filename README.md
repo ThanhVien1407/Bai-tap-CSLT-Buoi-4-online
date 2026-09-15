@@ -1,4 +1,4 @@
-# 31251025064 - Võ Thanh Viễn (Bài tập Buổi 5)
+# 31251025064 - Võ Thanh Viễn (Bài tập Buổi 4)
 
 ## 👤 Thông tin cá nhân
 * **Họ và tên:** Võ Thanh Viễn
@@ -8,7 +8,7 @@
 ## 📚 Thông tin môn học
 * **Môn học:** Cơ sở Lập trình
 * **Giảng viên hướng dẫn:** TS. Võ Văn Hải
-* **Mô tả:** Kho lưu trữ chứa mã nguồn Bài tập Buổi 5 (Online), tập trung ứng dụng các cấu trúc vòng lặp (`for`, `do-while`), xử lý số ngẫu nhiên (`Random`) và các thuật toán kiểm tra số học cơ bản.
+* **Mô tả:** Kho lưu trữ chứa mã nguồn Bài tập Buổi 4 (Online), tập trung ứng dụng các cấu trúc vòng lặp (`for`, `do-while`), xử lý số ngẫu nhiên (`Random`) và các thuật toán kiểm tra số học cơ bản.
 
 ## 📂 Danh sách bài tập
 * **Game Xí ngầu:** Làm lại và tối ưu logic trò chơi tung xúc xắc, xử lý vòng lặp đặt cược Tài/Xỉu/Lục.
